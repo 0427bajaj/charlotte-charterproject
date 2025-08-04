@@ -1,2 +1,2 @@
 # charlotte-charterproject
-Stored all project related docs for charter charlotte Projec
+Stored all project related docs for charter charlotte Project
